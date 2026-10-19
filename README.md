@@ -15,7 +15,7 @@ Projeto de Machine Learning e Business Intelligence para avaliação de risco de
 
 # Dashboard Executivo
 
-![Dashboard de Risco de Crédito](credit-risk-dashboard.jpeg)
+<img src="projeto-risco-credito/credit-risk-dashboard.jpeg" width="100%">
 
 ---
 
