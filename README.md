@@ -1,4 +1,4 @@
-**📊 Análise de Risco de Crédito & Predição de Inadimplência**
+# **📊 Análise de Risco de Crédito & Predição de Inadimplência**
 
 Projeto de Machine Learning e Business Intelligence para avaliação de risco de crédito e previsão de inadimplência.
 
@@ -15,7 +15,7 @@ Projeto de Machine Learning e Business Intelligence para avaliação de risco de
 
 # Dashboard Executivo
 
-<img src="credit-risk-dashboard.jpeg" width="100%">
+![Dashboard de Risco de Crédito](credit-risk-dashboard.jpeg)
 
 ---
 
